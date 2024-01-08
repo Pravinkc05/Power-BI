@@ -1,3 +1,3 @@
-# Power-BI
+# Power BI
 
-End - end projects on Power BI
+End - End projects on Power BI
